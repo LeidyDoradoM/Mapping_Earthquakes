@@ -41,3 +41,10 @@ Dark: mapbox/dark-v10
 The base layer is shown below:
 
 ![dark](https://github.com/LeidyDoradoM/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/Deliverable3.png?raw=true)
+
+Code and data used in this project can be found online:
+
+- JavaScript and HTML files:  [challenge_logic.js](https://github.com/LeidyDoradoM/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/static/js/challenge_logic.js), [index.html](https://github.com/LeidyDoradoM/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/index.html). 
+- [Tectonic Plates data](https://github.com/fraxen/tectonicplates).
+- Earthquakes data: [all eartquakes](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) and [major earthquakes](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson).
+- Information about Map layers: [Mapbox](https://docs.mapbox.com/api/maps/styles/).
